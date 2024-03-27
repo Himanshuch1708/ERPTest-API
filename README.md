@@ -1,4 +1,4 @@
-# APi Endpoint
+# API Endpoint
 
 ## Blade Files
 
