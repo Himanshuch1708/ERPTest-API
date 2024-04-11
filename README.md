@@ -38,8 +38,9 @@ The process flow consists of two main components: Sample Order (SO) and Sample O
 
 ![SODN FLOW](https://github.com/Himanshuch1708/ERPTest-API/blob/main/sodn_flow.png)
 
-## Interconnections
+### Interconnections
 - **SO-5** and **SODN-1**: Photos taken in SO-5 are used in SODN-1.
 - **SO-6** and **SODN-3**: Email images sent in SO-6 are incorporated into the dispatch details in SODN-3.
 - **SO-12** and **SODN-4**: Final sample invoices sent in SO-12 are referenced in SODN-4.
 
+![So -> SODN](https://github.com/Himanshuch1708/ERPTest-API/blob/main/so_sodn.png)
