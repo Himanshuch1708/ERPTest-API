@@ -20,7 +20,7 @@ The process flow consists of two main components: Sample Order (SO) and Sample O
 11. **Prepare Dispatch sheet , Labels , Do sample Inspection as per buyer Comments , Dispatch Sheet sign - SO-14**: Prepare dispatch sheets, labels, and perform sample inspection as per buyer comments. Sign the dispatch sheet.
 12. **Sample Order Overdue - SO-15**: Manage overdue sample orders.
 
-![]()
+![SO FLOW](https://github.com/Himanshuch1708/ERPTest-API/blob/main/so_flow.png)
 
 
 ### Sample Order Delivery Note (SODN)
