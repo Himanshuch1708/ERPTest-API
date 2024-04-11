@@ -36,6 +36,8 @@ The process flow consists of two main components: Sample Order (SO) and Sample O
 10. **Samples to be added to Catalog SODN-22**: Add samples to the catalog.
 11. **CFM-PPS Approval from Customer updates in ERP and doc submitted SODN-6**: Update CFM-PPS approval from the customer in ERP and submit documents.
 
+![SODN FLOW](https://github.com/Himanshuch1708/ERPTest-API/blob/main/sodn_flow.png)
+
 ## Interconnections
 - **SO-5** and **SODN-1**: Photos taken in SO-5 are used in SODN-1.
 - **SO-6** and **SODN-3**: Email images sent in SO-6 are incorporated into the dispatch details in SODN-3.
